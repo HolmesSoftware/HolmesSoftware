@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Portfolio Websites
+- 🔭 I’m currently working on ... Creating/Selling Portfolio Websites
 - 🌱 I’m currently learning ... React and Firebase
 - 👯 I’m looking to collaborate on ... React
 - 🤔 I’m looking for help with ... Firebase
