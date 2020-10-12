@@ -1,8 +1,5 @@
 ### Here is what im working on! 👋
 
-<!--
-**Bleeus/Bleeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Portfolio Websites
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Portfolio](http://tylerh.dev)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am from North England
--->
+
