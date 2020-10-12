@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Firebase
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Portfolio](http://tylerh.dev)
-- 😄 Pronouns: ... He/Him/Kaka
+- 😄 Pronouns: ... He/Him/Kakka
 - ⚡ Fun fact: ... I am from North England
 
