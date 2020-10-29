@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Portfolio](http://tylerh.dev)
 - 😄 Pronouns: ... He/Him/Kakka
-- ⚡ Fun fact: ... I am from North England
+
 
