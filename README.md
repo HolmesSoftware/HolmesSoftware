@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on ... React
 - 🤔 I’m looking for help with ... Firebase
 - 💬 Ask me about ... Anything
-- 😄 Pronouns: ... He/Him
+
 
 
