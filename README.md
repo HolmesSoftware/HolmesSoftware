@@ -2,7 +2,7 @@
 
 ### Nice to meet you! 👋
 
-I'm Tyler, im an aspiring Full Stack Developer currently working as a .NET Developer at [Janalta](https://www.janalta.com/)
+I'm Tyler, im an aspiring Full Stack Developer currently working as a .NET Developer Associate at [Janalta](https://www.janalta.com/)
 
 I've been using C#, JavaScript, React/Next, Firebase and SQL to build my personal projects and client sites! 
 
