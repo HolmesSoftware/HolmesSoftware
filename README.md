@@ -14,7 +14,7 @@ I've been using C#, JavaScript, React/Next, Firebase and SQL to build my persona
 -------
 
 - 🔭 I’m currently working on ... **Developing Full Stack Websites for Clients**
-- 🌱 I’m currently learning ... **Three.js**
-- 👯 I’m looking to collaborate on ... **React**
+- 🌱 I’m currently learning ... **D3.js**
+- 👯 I’m looking to collaborate on ... **Next.Js**
 - 📫 How to reach me: ... **www.tylerholmes.ca** or **www.hddigital.ca**
-- 💬 Ask me about ... **React, NextJS, and Firebase**
+- 💬 Ask me about ... **React, Next.JS, and Firebase**
