@@ -16,4 +16,4 @@ I've been using C#, JavaScript, React/Next, Firebase and SQL to build my persona
 - 🔭 I’m currently working on ... **www.AnimeTrivia.app**
 - 🌱 I’m currently learning ... **D3.js**
 - 📫 How to reach me: ... **www.tylerholmes.ca** or **www.hddigital.ca**
-- 💬 Ask me about ... **React, Next.JS, C#, MVC, SQL, Firebase**
+- 💬 Ask me about ... **React, Next.JS, JS, C#, MVC, SQL, Firebase**
