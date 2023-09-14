@@ -2,7 +2,7 @@
 
 ### Nice to meet you! 👋
 
-I'm Tyler, im currently working as a Junior .NET Full Stack Developer at [Janalta](https://www.janalta.com/)
+I'm Tyler, im currently working as a Full Stack Developer at [Fishtank Consulting](https://www.getfishtank.com/)
 
 I've been using C#, JavaScript, React/Next, Firebase and SQL to build my personal projects and client sites! 
 
@@ -14,6 +14,6 @@ I've been using C#, JavaScript, React/Next, Firebase and SQL to build my persona
 -------
 
 - 🔭 I’m currently working on ... **www.AnimeTrivia.app**
-- 🌱 I’m currently learning ... **D3.js**
+- 🌱 I’m currently learning ... **Sitecore**
 - 📫 How to reach me: ... **www.tylerholmes.ca** or **www.hdweb.ca**
 - 💬 Ask me about ... **React, Next.JS, JS, C#, MVC, SQL, Firebase**
