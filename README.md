@@ -11,6 +11,8 @@ I've been using C#, JavaScript, React/Next, Firebase and SQL to build my persona
 <p><a href="https://www.tylerholmes.ca">See all my work on my Portfolio</a></p>
 <p><a href="https://www.linkedin.com/in/tyler-holmes-developer/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></a></p>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a5bafc09-b959-4e6d-92ca-a13cf625946d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 -------
 
 - 🔭 I’m currently working on ... **www.AnimeTrivia.app**
