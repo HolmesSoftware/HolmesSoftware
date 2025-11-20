@@ -2,7 +2,7 @@
 
 ### Nice to meet you! 👋
 
-I'm Tyler, im currently working as a Full Stack Developer at [Fishtank Consulting](https://www.getfishtank.com/)
+I'm Tyler, im currently working as a Senior Full Stack Developer at [Fishtank Consulting](https://www.getfishtank.com/)
 
 I've been using C#, JavaScript, React/Next, Firebase and SQL to build my personal projects and client sites! 
 
