@@ -1,7 +1,7 @@
 # Hi, I'm Tyler Holmes 👋
 **Senior Full Stack Developer | Solutions Architect**
 
-I specialize in building scalable, high-performance web applications using the **.NET and JavaScript ecosystems**. Currently, I lead technical implementations as a Senior Developer at **[Fishtank Consulting](https://www.getfishtank.com/)**, with a focus on **Sitecoreai** *(Formally Sitecore XM Cloud)* and modern composable architectures.
+I specialize in building scalable, high-performance web applications using the **.NET and JavaScript ecosystems**. Currently, I lead technical implementations as a Senior Developer at **[Fishtank Consulting](https://www.getfishtank.com/)**, with a focus on **SitecoreAI** *(Formally Sitecore XM Cloud)* and modern composable architectures.
 
 ---
 
