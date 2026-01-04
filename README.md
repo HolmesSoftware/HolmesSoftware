@@ -39,5 +39,4 @@ I specialize in building scalable, high-performance web applications using the *
 <p align="left">
 <a href="https://www.linkedin.com/in/tyler-holmes-developer/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" height="35"></a>
 <a href="https://www.tylerholmes.ca"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" height="35"></a>
-<a href="https://hdweb.ca"><img src="https://img.shields.io/badge/Work_With_Me-000000" height="35"></a>
 </p>
