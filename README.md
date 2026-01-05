@@ -24,6 +24,12 @@ I specialize in building scalable, high-performance web applications using the *
 
 ---
 
+### Open Source Contributions
+
+* **[godot_dialogue_manager](https://github.com/nathanhoad/godot_dialogue_manager)** 
+
+---
+
 ### Tech Stack & Expertise
 
 | Category | Technologies |
